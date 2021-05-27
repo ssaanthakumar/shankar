@@ -1,2 +1,0 @@
-# saanthakumar.com
-about
