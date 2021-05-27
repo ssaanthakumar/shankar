@@ -1,2 +1,2 @@
 # saanthakumar.com
-CV Site
+about
